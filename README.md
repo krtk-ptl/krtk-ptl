@@ -1,4 +1,4 @@
-# Hi, I'm Kartik  Patil
+# Hi, I'm Kartik Patil
 
 ### Engineer • SDE-focused • AI × Finance enthusiast  
 Final-year Electronics & Telecommunication student at **PICT, Pune** — building production-ready systems, ML-powered tools and researching at the intersection of blockchain, IoT and network protocols.
@@ -14,42 +14,32 @@ Final-year Electronics & Telecommunication student at **PICT, Pune** — buildin
 
 ## 🌐 Connect
 <p align="center">
-  <span style="margin:0 20px;">
-    <a href="https://github.com/krtk-ptl" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" height="42" />
-    </a>
-  </span>
-  <span style="margin:0 20px;">
-    <a href="https://linkedin.com/in/krtk-ptl" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-    </a>
-  </span>
-  <span style="margin:0 20px;">
-    <a href="mailto:kartikppatil40@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" height="42" />
-    </a>
-  </span>
-  <span style="margin:0 20px;">
-    <a href="https://leetcode.com/your-leetcode" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="42" />
-    </a>
-  </span>
-  <span style="margin:0 20px;">
-    <a href="https://codeforces.com/profile/krtk-ptl" target="_blank">
-      <img src="https://raw.githubusercontent.com/Divyanshu0602/Divyanshu0602/main/codeforces.png" height="42" />
-    </a>
-  </span>
-  <span style="margin:0 20px;">
-    <a href="https://kaggle.com/your-kaggle" target="_blank">
-      <img src="https://skillicons.dev/icons?i=kaggle" height="42" />
-    </a>
-  </span>
+  <a href="https://github.com/krtk-ptl" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-00b3a6?style=for-the-badge" alt="GitHub" style="margin:0 12px;" />
+  </a>
+  <a href="https://linkedin.com/in/krtk-ptl" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-6c757d?style=for-the-badge" alt="LinkedIn" style="margin:0 12px;" />
+  </a>
+  <a href="mailto:kartikppatil40@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-00b3a6?style=for-the-badge" alt="Email" style="margin:0 12px;" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-6c757d?style=for-the-badge" alt="LeetCode" style="margin:0 12px;" />
+  </a>
+  <a href="https://codeforces.com/profile/krtk-ptl" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-00b3a6?style=for-the-badge" alt="Codeforces" style="margin:0 12px;" />
+  </a>
+  <a href="https://kaggle.com/your-kaggle" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-6c757d?style=for-the-badge" alt="Kaggle" style="margin:0 12px;" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
-I build backend-first products that scale and ML tools that provide actionable insights. I enjoy converting research ideas into working systems — whether that’s prototyping a blockchain analysis tool or designing hybrid routing protocols for IoT deployments. When I’m not coding, I’m either solving CP problems or sketching UI layouts for the next side project.
+I build backend-first products that scale and ML tools that provide actionable insights. I enjoy converting research ideas into working systems — whether that’s prototyping a blockchain analysis tool or designing hybrid routing protocols for IoT deployments.
+
+When I’m not coding, I’m either solving CP problems or sketching UI layouts for the next side project.
 
 ---
 
@@ -71,20 +61,19 @@ I build backend-first products that scale and ML tools that provide actionable i
 ---
 
 ## 🔬 Publications
-- **Leveraging Blockchain in Business Management** — Springer LNNS / ICCCN 2025 (Manchester). Benchmarked blockchain impact on cost & traceability and proposed interoperability fixes. :contentReference[oaicite:1]{index=1}  
+- **Leveraging Blockchain in Business Management** — Springer LNNS / ICCCN 2025 (Manchester). Benchmarked blockchain impact on cost & traceability and proposed interoperability fixes.  
 - **Hybrid Energy-Efficient Routing Protocol for IoT** — PIJET 2025. Designed HEERP and showed improved PDR and reduced latency in QualNet simulations. 
 
 ---
 
 ## 🧰 Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,postgres,redis,aws,docker,kubernetes,git,figma,postman,tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,postgres,redis,aws,docker,kubernetes,git,figma,postman,tensorflow,pytorch,sklearn" alt="tech icons" />
 </p>
-
 
 ---
 
 ## 📫 Contact
 - Email: kartikppatil40@gmail.com  
 - LinkedIn: https://linkedin.com/in/krtk-ptl  
-- GitHub: https://github.com/krtk-ptl  
+- GitHub: https://github.com/krtk-ptl
