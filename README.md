@@ -1,7 +1,7 @@
 # Hi, I'm Kartik Patil
 
 ### Engineer • SDE-focused • AI × Finance enthusiast  
-Final-year Electronics & Telecommunication student at **PICT, Pune** — building production-ready systems, ML-powered tools and researching at the intersection of blockchain, IoT and network protocols.
+Final-year student at **PICT, Pune** — building production-ready systems, ML-powered tools and researching at the intersection of blockchain, IoT and network protocols.
 
 ---
 
@@ -38,8 +38,6 @@ Final-year Electronics & Telecommunication student at **PICT, Pune** — buildin
 
 ## 🧠 About Me
 I build backend-first products that scale and ML tools that provide actionable insights. I enjoy converting research ideas into working systems — whether that’s prototyping a blockchain analysis tool or designing hybrid routing protocols for IoT deployments.
-
-When I’m not coding, I’m either solving CP problems or sketching UI layouts for the next side project.
 
 ---
 
